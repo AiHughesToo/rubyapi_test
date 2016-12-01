@@ -25,11 +25,12 @@ doc/
 *.swp
 *~
 .DS_Store
+<<<<<<< HEAD
+.idea/market_place_api.iml
+=======
 .idea/inspectionProfiles/
 app/controllers/api/
 
 .idea/workspace.xml
 
-
-
-.idea/workspace.xml
+>>>>>>> master
