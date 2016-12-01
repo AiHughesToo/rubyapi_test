@@ -29,8 +29,6 @@ doc/
 .idea/market_place_api.iml
 =======
 .idea/inspectionProfiles/
-app/controllers/api/
-
 .idea/workspace.xml
 
 
