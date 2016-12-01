@@ -25,3 +25,11 @@ doc/
 *.swp
 *~
 .DS_Store
+.idea/inspectionProfiles/
+app/controllers/api/
+
+.idea/workspace.xml
+
+
+
+.idea/workspace.xml
