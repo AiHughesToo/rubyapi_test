@@ -25,3 +25,4 @@ doc/
 *.swp
 *~
 .DS_Store
+.idea/market_place_api.iml
